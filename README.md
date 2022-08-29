@@ -1,1 +1,1 @@
-Music controller app built with django using the spotify api
+Music controller app built with django using the spotify api (almost done).
